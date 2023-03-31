@@ -5,7 +5,7 @@
     right: 0;
     width: 100%;
     z-index: 1; /*Meu menu fica por cima de tudo*/
-    border-bottom: 0.1rem solid var(--light-gray-color);/*Bordar do menu*/
+    border-bottom: 0.5rem solid var(--light-gray-color);/*Bordar do menu*/
 }
 
 .menu-content{

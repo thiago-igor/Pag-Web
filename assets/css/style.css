@@ -2,7 +2,7 @@
     position: relative;
     /*top: -4rem;*/
     display: grid; 
-    grid-template-columns: 1fr 1.5fr; /*dividindo as div em 2 espaços iguais*/
+    grid-template-columns: 1.5fr 1.5fr; /*dividindo as div em 2 espaços iguais*/
     align-items: center; /*Alinha no centro*/
     gap: var(--gap);
     min-height: 100vh; /*Dando para grid o tamanho total da tela*/
