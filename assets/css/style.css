@@ -156,6 +156,7 @@
 }
 
 
+
 @media (max-width:800px){ /*Quando a largura da tela for menor que 800px ele execulta*/
     .intro-content, .grid{
         grid-template-columns: 1fr;
